@@ -77,7 +77,7 @@ Intrigued about IOT, 3D, XR and R&D. Passionate about music, coffee, and animals
 
 ### Cofundador & COO at Pitaya Ventures
 01/2019 - 12/2021
-Worked with talented people on several projects focused on accessibility of resources and businesses for society, my tasks were focused mainly on everything related to programming and systems, as well as jointly designing strategies for our startup's next steps.
+- Worked with talented people on several projects focused on accessibility of resources and businesses for society, my tasks were focused mainly on everything related to programming and systems, as well as jointly designing strategies for our startup's next steps.
 
 ### Full Stack Web Development Student at Ironhack
 10/2018 - 01/2019
@@ -113,14 +113,14 @@ Worked with talented people on several projects focused on accessibility of reso
 
 ## Education
 
-- Ironhack
-Certificate of Completion, Full Stack Web Developer, 2018 - 2019
+### Ironhack
+- Certificate of Completion, Full Stack Web Developer, 2018 - 2019
 
-- Platzi
-Many courses Certificate of Completion, platform used for continue self-education, since 11/2021
+### Platzi
+- Many courses Certificate of Completion, platform used for continue self-education, since 11/2021
 
-- Universidad del Valle de México
-Bachelor degree, Communication Sciences, 2014 - 2017
+### Universidad del Valle de México
+- Bachelor degree, Communication Sciences, 2014 - 2017
 
-- Santa Fe University of Art and Design
-Certificate of Completion, Cinema and audiovisual production, 2016 - 2016
+### Santa Fe University of Art and Design
+- Certificate of Completion, Cinema and audiovisual production, 2016 - 2016
