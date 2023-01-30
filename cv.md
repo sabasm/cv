@@ -66,7 +66,7 @@ Intrigued about IOT, 3D, XR and R&D. Passionate about music, coffee, and animals
 
 ## Experience
 
-### Mexico's Javascript unit leader at Softeq
+### Mexico's Javascript unit leader at Softeq (Fully Remote)
 02/2022 - Present
 - Full stack MERN javascript/typescript developer
 - Honorific Mention on Lenovo's CWS Hackathon 2022
@@ -75,7 +75,7 @@ Intrigued about IOT, 3D, XR and R&D. Passionate about music, coffee, and animals
 - Working along with clients with their projects
 - Mexico's JavaScript department unit leader
 
-### Cofundador & COO at Pitaya Ventures
+### Cofundador & COO at Pitaya Ventures (Hybrid)
 01/2019 - 12/2021
 - Worked with talented people on several projects focused on accessibility of resources and businesses for society, my tasks were focused mainly on everything related to programming and systems, as well as jointly designing strategies for our startup's next steps.
 
