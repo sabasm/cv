@@ -79,9 +79,9 @@ Intrigued about IOT, 3D, XR and R&D. Passionate about music, coffee, and animals
 01/2019 - 12/2021
 - Worked with talented people on several projects focused on accessibility of resources and businesses for society, my tasks were focused mainly on everything related to programming and systems, as well as jointly designing strategies for our startup's next steps.
 
-### Full Stack Web Development Student at Ironhack
+### Full Stack Web Development Student at Ironhack (Bootcamp)
 10/2018 - 01/2019
-- Full Stack Web Development Diploma
+- Full Stack Web Development Certicate of Completion
 - Learning and implementation of technologies: MongoDb, Express.js, React.js, Node.js
 - Development of projects in Javascript, CSS, Handlebars.js and HTML5
 
