@@ -1,9 +1,9 @@
 # Sabás Martín Mendívil Alvarado
 
 #### Contact Information
-Location: Hermosillo, Sonora
-Phone: +526621966181
-Email: smma1992@gmail.com
+- Location: Hermosillo, Sonora
+- Phone: +526621966181
+- Email: smma1992@gmail.com
 
 ## Summary
 
